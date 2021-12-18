@@ -1,7 +1,5 @@
 # robot-battle-simulation
 
-Solution for a coding challenge for a job application
-
 # Robot
 A robot is characterized by 5 parameters: attack, shield, speed, location and energy.
 - Attack (A): represent the explosive power of the missile.
