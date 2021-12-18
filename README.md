@@ -2,14 +2,14 @@
 
 Solution for a coding challenge for a job application
 
-Robot
+# Robot
 A robot is characterized by 5 parameters: attack, shield, speed, location and energy.
 - Attack (A): represent the explosive power of the missile.
 - Defense (D): represent the strength of the shield
 - Speed (S): represents the maximum number of meter the robot can move at once.
 - Energy(E): self-explanatory
 - Location (L): position of the robot on the axis
-Assumptions
+# Assumptions
 - At the beginning of the battle one robot starts at L=0 the other at L=19.
 - The battle is round-base: both robots make a move and then the outcome of their move is
 - computed
